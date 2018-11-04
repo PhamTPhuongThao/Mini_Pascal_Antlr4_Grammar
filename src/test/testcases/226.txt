@@ -1,0 +1,4 @@
+
+        FUNCtion gtg(xfds): real;
+        begin end
+        

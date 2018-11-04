@@ -1,0 +1,4 @@
+function foo(a:integer):integer;
+                        i:=i+100000;
+                    end
+                    

@@ -1,0 +1,13 @@
+Procedure InsertionSort();
+            Var i,j: real;
+            Begin
+                For i:=2 to n do
+                Begin
+                    j:=i;
+                    While (j>1) and (a[j]<a[j-1]) do
+                    Begin
+                        Swap (a[j],a[j-1]);
+                        j:=j-1;
+                    End
+                End
+            End

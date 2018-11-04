@@ -1,0 +1,7 @@
+
+        procedure _fsdf(a: real);
+        var jyt,ytry: real ;
+        begin
+        
+        end
+        

@@ -1,0 +1,13 @@
+
+                procedure ThayTheBangTong(A:array[0 .. 10] of real; N:real; X, Y:real);
+                Var i,k:real;
+                begin
+                 For i:=0 to N do
+                 If( (A[i-1]+A[i]) mod 10 = 0) then
+                 begin
+                  k := (A[i-1]+A[i]);
+                  A[i-1] := k;
+                  A[i] := k;
+                 end
+                end
+                

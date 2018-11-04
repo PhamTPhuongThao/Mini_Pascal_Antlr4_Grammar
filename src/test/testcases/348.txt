@@ -1,0 +1,4 @@
+function func1():integer;
+                    begin
+                        function func2():integer;
+                    end

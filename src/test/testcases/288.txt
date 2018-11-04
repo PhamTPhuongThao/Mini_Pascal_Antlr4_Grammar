@@ -1,0 +1,11 @@
+
+                Function DemPtuX(A:array[0 .. 10] of real; N,X : real) : real;
+                Var i , Count : real;
+                begin
+                 Count := 0;
+                 For i:=0 to N do
+                  If ( A[i] = X ) then
+                   Count := Count + 1;
+                 return Count;
+                end
+                

@@ -1,0 +1,7 @@
+
+        procedure htrh();
+        var hdtu,tyer: strinG;
+        begin
+        
+        end
+        

@@ -1,0 +1,4 @@
+procedure a();
+                   begin
+                    while (true) do return ;
+                   end

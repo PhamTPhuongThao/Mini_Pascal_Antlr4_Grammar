@@ -1,0 +1,4 @@
+var a, b: real;
+                var c,d,e: real;
+                var s: string;
+                var f: boolean;

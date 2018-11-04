@@ -1,0 +1,4 @@
+
+        function htr(ab: string): array [1 .. 3] of real;
+        begin end
+        

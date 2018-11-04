@@ -1,0 +1,7 @@
+
+        procedure foo(a: real) ;
+        begin
+            x := 1;
+            ghj := a[12] ;
+        end
+        

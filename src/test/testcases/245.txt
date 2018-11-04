@@ -1,0 +1,10 @@
+
+        function aaa(ttt: real): string ;
+        begin
+            if(tmp>1) then 
+                g:=1 ;
+                if(a <> b ) then a[1]:= t[1];
+                else y:=z[1]:= 1;
+            end
+        end
+        

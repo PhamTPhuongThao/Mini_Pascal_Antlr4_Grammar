@@ -1,0 +1,6 @@
+function main():integer;
+        begin
+        for a:= a*2 to a=True*false AND x<>5 do i:=a[x]:=false*true;
+        return 99*99;
+        end
+        

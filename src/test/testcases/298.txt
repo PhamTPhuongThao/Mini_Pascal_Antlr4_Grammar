@@ -1,0 +1,13 @@
+
+                procedure find(n: real);
+                begin
+                 Assign(f,fo);
+                  Reprint(f);
+                 If n > 0 then
+                  begin
+                  print(f,n mod 10);
+                  find(n div 10);
+                  end
+                 Close(f);
+                end
+                

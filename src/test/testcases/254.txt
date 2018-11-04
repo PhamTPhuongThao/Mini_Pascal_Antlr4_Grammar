@@ -1,0 +1,7 @@
+
+        procedure aaa() ;
+        begin
+            with a,a,aa :real ; str : array [1 .. 2] of string ; do
+            t := a[t*3] / 2 + g ;
+        end
+        

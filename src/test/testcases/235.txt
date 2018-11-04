@@ -1,0 +1,8 @@
+
+        procedure foo(a: real) ;
+        var num: string ;
+        begin
+            3 := t;
+            a[1][1] := t[12] ;
+        end
+        

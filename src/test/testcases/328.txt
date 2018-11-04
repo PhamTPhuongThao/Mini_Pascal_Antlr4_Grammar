@@ -1,0 +1,6 @@
+function main(a,b:real):integer;
+		begin
+		end
+		function foo():;
+		begin
+		end

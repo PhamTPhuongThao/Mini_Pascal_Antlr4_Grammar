@@ -1,0 +1,3 @@
+
+        var 
+            abktuc: array [-1 .. 4] of real;

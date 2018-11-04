@@ -1,0 +1,1 @@
+if,,,and,,,array,[,while,else,..,+,T3117,while,<>,:,;,7,*,procedure,procedure,false,<>,/,if,<>,mod,<EOF>

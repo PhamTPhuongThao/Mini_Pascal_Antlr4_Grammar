@@ -1,0 +1,6 @@
+
+        procedure gg(); 
+	    var retr: string;
+		var ut,ytry: real;
+	    begin 
+	    end

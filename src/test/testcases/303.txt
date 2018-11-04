@@ -1,0 +1,5 @@
+procedure main(); 
+ var x ,y: integer; 
+ begin 
+  
+ end

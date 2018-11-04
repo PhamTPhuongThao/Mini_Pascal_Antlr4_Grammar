@@ -1,0 +1,6 @@
+
+        FUNction foo(fsd7d,gdfg78df: real);
+        begin
+
+        end
+        

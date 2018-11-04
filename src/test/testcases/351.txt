@@ -1,0 +1,1 @@
+ var i: integer; a,b: real ;

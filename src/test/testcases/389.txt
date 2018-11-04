@@ -1,0 +1,4 @@
+ function fucn):integer;
+                begin
+                end
+                

@@ -1,0 +1,10 @@
+procedure foo ( a : array [ 1 .. 2 ] of  real);begin end
+        procedure goo ( x : array [ 1 .. 2 ] of  real);
+        var
+        y : array [2 .. 3] of  real;
+        z : array [1 .. 2] of  integer;
+        begin
+        foo(x);
+        foo1(y)
+        foo2(z) ; 
+        end

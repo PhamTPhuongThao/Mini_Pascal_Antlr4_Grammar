@@ -1,0 +1,6 @@
+function max (a,b: integer): integer;
+		var max: integer;
+		begin
+		if a = b then
+			max := a + b;
+		end

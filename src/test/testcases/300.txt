@@ -1,0 +1,15 @@
+
+                Var r,dt,cv:real;
+                procedure main() ;
+                begin
+                 clearScreen();
+                 println("TINH DIEN TICH & CHU VI HINH TRON:");
+                 println("--------------------------------------------------");
+                 print ("Nhap ban kinh R="); readfromfile(r);
+                 dt:=pi*r*r;
+                 cv:=2*pi*r;
+                 println("Dien tich hinh tron la:",dt);
+                 println("Chu vi hinh tron la:",cv);
+                 readfromfile();
+                end
+                

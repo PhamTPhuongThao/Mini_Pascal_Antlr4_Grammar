@@ -1,0 +1,4 @@
+procedure func1();
+                    begin
+                        procedure func2();
+                    end

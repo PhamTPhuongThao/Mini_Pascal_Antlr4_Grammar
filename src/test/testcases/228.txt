@@ -1,0 +1,8 @@
+
+        var a:real;
+        procedure foo(); 
+	    x, hghhgh:string;
+		regfd: real;
+	    begin 
+	    end
+	    

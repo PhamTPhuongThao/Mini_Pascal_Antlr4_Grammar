@@ -1,0 +1,9 @@
+
+                Function findNumber(m,n:real):real;
+                begin
+                 If(m=n) then RETURN m ;
+                 else
+                  If (m>n) then return findNumber(m-n,n);
+                  else return findNumber(m,n-m);
+                end
+                

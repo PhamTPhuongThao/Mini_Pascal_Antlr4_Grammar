@@ -1,0 +1,14 @@
+ 
+        var i: integer;
+            j:real;
+            g:array[1 .. 100] of string;
+        function tong(a,b:integer):integer;
+            begin
+            return a+b;
+            end
+        procedURE MaIn();
+            begin
+            j:= tong(i,i);
+            for i:=10 to 100 do g[i] := tong(i,i);
+            end
+        

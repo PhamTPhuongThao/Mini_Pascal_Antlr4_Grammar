@@ -1,0 +1,8 @@
+
+        procedure aaa(arr: real) ;
+        var a,b: real ;
+        begin
+            WHILE(t<>1) do begin
+                while(x) do a:= a+2;
+                end
+        end

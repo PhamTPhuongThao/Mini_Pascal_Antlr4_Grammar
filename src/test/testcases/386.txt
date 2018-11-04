@@ -1,0 +1,7 @@
+function max (a,b: integer): integer;
+		var max: integer;
+		begin
+		if a = b then
+			max := 999999999999 ;
+		else	
+		end

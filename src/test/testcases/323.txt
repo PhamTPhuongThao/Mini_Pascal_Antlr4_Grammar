@@ -1,0 +1,7 @@
+ procedure foo(a:integer; b:real);
+        var a: real;
+        begin
+        for i := 1 to 10 do 
+        a := a + 99;
+        break;
+        end 

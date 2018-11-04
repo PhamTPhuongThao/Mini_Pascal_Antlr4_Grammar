@@ -1,0 +1,6 @@
+
+        procedure yre(); 
+	    begin
+	        n := tre, arr[1] := gfhg();
+	    end
+	    

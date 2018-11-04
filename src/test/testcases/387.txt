@@ -1,0 +1,5 @@
+
+                    procedure proc():integer;
+                    begin
+                    end
+                    

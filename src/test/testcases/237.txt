@@ -1,0 +1,6 @@
+
+        function foo(num: real): real ;
+        begin
+            tmp[m+n] := foo()[m*1] := abc[a div 2] := (p > 0) or else (m<=k);
+        end
+        

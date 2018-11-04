@@ -1,0 +1,6 @@
+
+        procedure f(); 
+	    begin
+		    with a,b: real;; do with a: array [1 .. 56] of real; do n := a*b; 
+		    with x:string; do with str: string; do x := str;
+	    end

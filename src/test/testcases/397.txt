@@ -1,0 +1,1 @@
+for a:=100 downto 10 do break;

@@ -1,0 +1,7 @@
+
+		procedure aaa( );
+        begin
+            if () then return a ; //CORRECT
+            else return b ;
+        end
+        

@@ -1,0 +1,4 @@
+
+        FUNCtion __gfdgdfg(a: string): real
+        begin       end
+        

@@ -1,0 +1,12 @@
+
+                Function KtraDoiXung (A:array[0 .. 10] of real; N:real ) : Boolean;
+                Var Flag:Boolean;
+                    i :real;
+                begin
+                 Flag:=True;
+                 For  i :=1 to N do
+                 If(A[i] <> A[N-i  +1]) Then
+                 Flag :=False;       { Cham dut kiem tra, ket qua qua trinh : khong doi xung }
+                 return flag;
+                end
+                

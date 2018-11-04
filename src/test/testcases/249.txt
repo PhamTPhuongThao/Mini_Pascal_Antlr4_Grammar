@@ -1,0 +1,9 @@
+
+        funcTION aaaa(): real ;
+        var a1,a2:real ;
+        begin
+            WhiLe(a1<>a2) do begin
+                if(a1 = a2) then t:=1;
+                foo(t);
+            end end
+        

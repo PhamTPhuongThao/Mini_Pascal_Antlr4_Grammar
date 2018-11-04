@@ -1,0 +1,4 @@
+procedure main();
+begin
+a[b[2]] :=1  ;
+end

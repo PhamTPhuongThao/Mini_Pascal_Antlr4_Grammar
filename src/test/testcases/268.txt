@@ -1,0 +1,4 @@
+function aaa(): real;
+                begin
+                   return aaa(t+1);
+                end

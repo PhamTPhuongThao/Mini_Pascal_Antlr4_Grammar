@@ -1,0 +1,8 @@
+
+        procedure aaa(t: real) ;
+        begin
+            WhiLe(t<>1) do begin
+                while(0) do a:= t;
+                    if(t < n) then begin t := t*2 end
+            end
+        end

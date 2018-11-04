@@ -1,0 +1,5 @@
+var a : real;
+function main():integer;
+begin
+a := b[5]:=;
+end

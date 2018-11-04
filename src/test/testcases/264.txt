@@ -1,0 +1,9 @@
+procedure aaa(x: string);
+                   begin
+                    for x:=1 to x+10 do 
+                        begin
+                        while i>1 do
+                            for i:=x+1 doWnTO 10 do
+                                while j>1 do y:=func(10);
+                    end
+                   end

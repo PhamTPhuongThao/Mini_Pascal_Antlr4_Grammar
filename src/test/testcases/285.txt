@@ -1,0 +1,13 @@
+
+                procedure NhapMang1C(A : array[0 .. 10] of real;N:real);
+                Var i: real;
+                begin
+                print("So luong phan tu:");
+                readfromfile( N);
+                For i:=0 to N do
+                    begin
+                        print("Nhap phan tu thu", i," ");
+                        readfromfile( A[i] );
+                    end
+                end
+                

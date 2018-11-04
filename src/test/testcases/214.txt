@@ -1,0 +1,7 @@
+
+        FUNcTION hfgsh(a, b: real; fsd:string):array [1 .. 2] of real ;
+        var gfd,htyujyt: real ;
+        begin
+        
+        end
+        

@@ -1,0 +1,8 @@
+
+        function foo(): real ;
+        var arr: array[1 .. 2] of real;
+        begin
+            g[b - c] := a[m/2] ;
+            a()[m*n] := a[a + 3] ;
+        end
+        

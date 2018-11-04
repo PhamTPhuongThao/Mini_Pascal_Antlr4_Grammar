@@ -1,0 +1,9 @@
+
+            procedure gdfht();
+            begin
+              If k mod 16 = 0 then t:="0"+t ;
+              else If k mod 16 = 1 then t:="1"+t;
+              else If k mod 16 = 2  t:="2"+t;
+             end
+            end
+            

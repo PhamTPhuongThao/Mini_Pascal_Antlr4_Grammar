@@ -1,0 +1,27 @@
+
+                var i: real ;
+                function f(): real ;
+                begin
+                   return 353;
+                end
+                procedure main() ;
+                var
+                   main: real ;
+                begin
+                   main := f() ;
+                   putIntLn(main);
+                   with
+                        i: real;
+                        m: real;
+                        f: real;
+                   do begin
+                        a := b [ 10 ] := foo ( ) [ 3 ] := x := 1 ;
+                        main := f := i:= 100;
+                        f (i);
+                        f (main );
+                        f (f);
+                   end
+                   putIntLn (main);
+                end
+                var g: real ;
+                

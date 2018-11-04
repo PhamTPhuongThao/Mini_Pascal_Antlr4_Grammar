@@ -1,0 +1,5 @@
+ var i:integer;
+                    
+                        i:=i+100;
+                    end
+                    

@@ -1,0 +1,7 @@
+ procedure main();
+                    begin
+                        food();
+                        food(a,b,c,5)
+                        food(a[4],food2[5]);
+                    end
+                    

@@ -1,0 +1,6 @@
+
+        procedure a();
+        begin
+			while n>10 do ;
+            a := t := foo(); 
+        end

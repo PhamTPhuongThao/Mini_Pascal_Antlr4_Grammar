@@ -1,0 +1,11 @@
+function fa(c: string): real;
+                   begin
+                    FOR i:=1 to g+10 do 
+                    begin
+                        for j:=m+1 doWnTO 100 do 
+                        begin
+                            t := t + 1;
+                            if(a=1) then g:=g-1;
+                        end
+                    end
+                   end

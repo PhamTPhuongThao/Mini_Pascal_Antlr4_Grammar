@@ -1,0 +1,6 @@
+
+        function fdsaf(fds: string;): strING;
+        begin
+        
+        end
+        

@@ -1,0 +1,6 @@
+
+                    function foo():integer;
+                    begin
+                        return 4*100000;
+                    end;
+                    

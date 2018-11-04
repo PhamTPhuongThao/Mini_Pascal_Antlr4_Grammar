@@ -1,0 +1,8 @@
+
+                procedure main() ;
+                begin
+                 if a=b then if c = d then e := f;
+                 else i := 1;
+                 else x := 2 ;
+                end
+                

@@ -1,0 +1,4 @@
+function foo(): boolean;
+                   begin
+                    while (x = 345) do begin end
+                   end

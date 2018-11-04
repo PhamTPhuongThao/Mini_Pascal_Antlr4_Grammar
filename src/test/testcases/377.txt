@@ -1,0 +1,10 @@
+ procedure main();
+                    var i,j: integer;
+                    begin
+                        for i:=10 to 100 do 
+                            begin
+                                i:=i+1;
+                                if (i>50) then  break;
+                            end
+                    end
+                    

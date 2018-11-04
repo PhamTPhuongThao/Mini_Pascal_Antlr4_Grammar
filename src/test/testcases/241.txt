@@ -1,0 +1,7 @@
+
+        procedure foo() ;
+        begin
+            if(x * y > m) then x := y*2 ;
+            else x := y+2;
+        end
+        

@@ -1,0 +1,7 @@
+ procedure main();
+                    begin
+                    end
+                    function func1(a:integer;b:real):array[1 .. 100] of integer;
+                        begin
+                        end
+                    

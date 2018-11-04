@@ -1,0 +1,15 @@
+
+                Function KtraMangTang ( A:array[0 .. 10] of real; N :real) : Boolean;
+                Var Flag : Boolean;
+                 i :real;
+                begin
+                 Flag := True;
+                 i:= 0;
+                 while(i<n) do begin
+                  If(A[i] < A[i-1]) Then
+                   Flag :=False; { Cham dut kiem tra, ket qua qua trinh : khong tang }
+                  i:=i+1;
+                 end
+                 return Flag;
+                end
+                

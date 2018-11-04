@@ -1,0 +1,3 @@
+function func1():integer;
+                    function func2():real;
+                    

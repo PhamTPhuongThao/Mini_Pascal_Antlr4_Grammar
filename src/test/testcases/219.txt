@@ -1,0 +1,5 @@
+
+        procedure hfgjhf();
+        var yyt,terte: string;
+        
+        end

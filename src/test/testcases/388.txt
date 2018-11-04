@@ -1,0 +1,7 @@
+
+                procedure main();
+                begin
+                    function a:integer():integer;
+                    begin
+                    end
+                end

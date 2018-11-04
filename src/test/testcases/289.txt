@@ -1,0 +1,9 @@
+
+                procedure ThayTheTatCa (A:array[0 .. 10] of real;N, x,y:real);
+                Var i:real;
+                begin
+                 For i:=0 to N do
+                  If(A[i] = x) then { Tim thay x ==> thay the thanh y }
+                  A[i] := y;
+                end
+                

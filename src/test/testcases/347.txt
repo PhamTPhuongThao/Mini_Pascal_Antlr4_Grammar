@@ -1,0 +1,4 @@
+fucntion func1():integer;
+                    fucntion func2():real;
+                    begin
+                    end

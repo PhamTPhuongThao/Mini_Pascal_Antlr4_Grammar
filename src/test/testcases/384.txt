@@ -1,0 +1,4 @@
+ procedure main();
+                    begin
+                        a:=b:=c:= food()[5]:= x[6]:= x[t[4]]:=food();
+                    end

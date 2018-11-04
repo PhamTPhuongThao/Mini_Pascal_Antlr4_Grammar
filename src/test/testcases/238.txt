@@ -1,0 +1,7 @@
+
+        procedure gdfg(); 
+	    begin
+	    x := ehg[2]  := fix();
+	    a := b := c = kug());
+	    end
+	    

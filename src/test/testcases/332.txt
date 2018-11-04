@@ -1,0 +1,5 @@
+procedure main(); 
+        begin
+        with a:integer; do begin a:= 1; while a > 1 do while a < 1 do a := 1; end
+        while a >= 1 do 
+        end

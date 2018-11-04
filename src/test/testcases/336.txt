@@ -1,0 +1,8 @@
+function main():integer;
+        procedure a(a:real); 
+        begin
+        foo(5,foo(),a[3+a]);
+        a[3]:= "this is string" + 100;
+        end
+        begin
+        end

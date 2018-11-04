@@ -1,0 +1,4 @@
+function foo():array[1 .. 80] of;
+                    begin
+                    end
+                    

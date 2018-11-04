@@ -1,0 +1,18 @@
+
+        var i: real ;
+        function func(): real;
+        begin
+            return s(arr);
+        end
+        procedure main() ;
+        var main: real ;
+        begin
+            m := f() ;
+            putIntLn(m);
+            with i: real; main: real; do begin
+                m := i:= sum(a,b);
+                put (i);
+            end
+        end
+        var str: real ;
+        

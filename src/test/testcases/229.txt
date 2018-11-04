@@ -1,0 +1,11 @@
+
+        var fdas: strING;
+        function jtyjty( ) :  string;
+        var x,y: real
+        begin
+            procedure grg();
+        	begin
+                
+            end
+        end
+        

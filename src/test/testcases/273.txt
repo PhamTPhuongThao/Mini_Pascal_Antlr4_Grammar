@@ -1,0 +1,5 @@
+function aaa(): string;
+                   begin
+                    a(3,a(a(foo(2,34))));
+                    return aaa(a(3423));
+                   end

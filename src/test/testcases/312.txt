@@ -1,0 +1,1 @@
+var i : array [3 .. 4] of integer ;

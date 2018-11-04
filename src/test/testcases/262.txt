@@ -1,0 +1,7 @@
+function aaa(c: string): real;
+                   begin
+                    FOR i:=1 to t+10 do begin
+                        t := t + 1;
+                        if(a=1) then t:=t-1;
+                    end
+                   end

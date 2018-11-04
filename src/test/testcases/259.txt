@@ -1,0 +1,5 @@
+procedure f(); 
+	   	begin
+	        with a: real;  if (t > 0) then a:= a+ t;
+	    end
+	    

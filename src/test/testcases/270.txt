@@ -1,0 +1,5 @@
+function aaa(): boolean;
+                   begin
+                    foo (3,a+1);
+                    foo1();
+                   end

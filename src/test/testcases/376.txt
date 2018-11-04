@@ -1,0 +1,5 @@
+function fun1():integer;
+                    //begin
+                    begin
+                    end
+                    

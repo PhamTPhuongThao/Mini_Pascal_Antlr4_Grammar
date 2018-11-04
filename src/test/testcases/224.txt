@@ -1,0 +1,5 @@
+
+        procedure gfdgdfg() 
+        var x: real; 
+        begin end
+        

@@ -1,0 +1,6 @@
+procedure main();
+		begin
+		end
+		procedure foo();
+		begin
+        

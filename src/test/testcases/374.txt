@@ -1,0 +1,7 @@
+
+                    procedure proc1();
+                    procedure proc2();
+                    procedure proc();
+                    begin end
+                    begin end
+                    

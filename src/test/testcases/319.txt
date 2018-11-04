@@ -1,0 +1,4 @@
+function foo (b :integer ):real ;
+begin
+ with a , b : integer; c : array [1 .. 2] of real ; do d := c [a] + b; 
+end

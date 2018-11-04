@@ -1,0 +1,7 @@
+
+        function f(): real;
+        begin
+        with num real, a : array [1 .. 2] of string ; do
+            sort(arr);  sum(x, y, z);
+        end
+        

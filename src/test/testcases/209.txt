@@ -1,0 +1,3 @@
+var a , b , c : real ;
+            d : array [ 1 . . 5 ] of real ;
+            e , f : real ;

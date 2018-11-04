@@ -1,0 +1,1 @@
+break,,,+,,,],e8fe2,of,..,,,:=,,,if,Wcaa7,=,:=,begin,else,else,:=,boolean,then,Mto,while,true,downto,(,return,<EOF>

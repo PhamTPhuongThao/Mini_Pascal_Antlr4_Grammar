@@ -1,0 +1,6 @@
+function main():integer;
+        begin
+        for a:= a*2 to a=false do return;
+        return 99*99;
+        end
+        

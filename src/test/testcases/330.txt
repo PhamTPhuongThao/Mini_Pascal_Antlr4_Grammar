@@ -1,0 +1,5 @@
+procedure main(); 
+	    begin
+		with a,c:REAl;b,d,y:INTeger;m:BOOLean; do with a:integer; do a := 1; 
+		with a:integer; do with b:integer do a := 1;
+	    end

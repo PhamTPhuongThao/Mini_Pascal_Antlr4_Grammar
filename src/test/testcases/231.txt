@@ -1,0 +1,4 @@
+
+        procedure fds(var fdfd: string);    
+	    begin end
+	    

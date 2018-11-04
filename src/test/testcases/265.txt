@@ -1,0 +1,5 @@
+procedure aaa();
+                   begin
+                    for i:=1 downto 343 do begin
+                        break;
+                    end end

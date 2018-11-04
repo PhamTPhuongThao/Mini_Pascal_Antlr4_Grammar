@@ -1,0 +1,9 @@
+function main():integer;
+        begin
+        while 1 do
+        begin 
+        a:=a+1;
+        end
+        return 2*3+a;
+        end
+        

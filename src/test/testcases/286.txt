@@ -1,0 +1,11 @@
+
+                Function Tong_So_Chia_Het_Cho5(A:array[0 .. 10] of real ; N:real):real;
+                Var S,i :real;
+                begin
+                    S:=0;
+                    For i:=0 to N do
+                    If(A[i] mod 5=0) then
+                    S := S+A[i];
+                    return S;
+                end
+                

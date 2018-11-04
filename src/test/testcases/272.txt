@@ -1,0 +1,5 @@
+function aaa(): boolean;
+                   begin
+                    foo(3,t,x and then y,a[1],foo(4324)[634+543]);
+                    return foo2();
+                   end

@@ -1,0 +1,5 @@
+function fun():integer;
+                    begin
+                        while x=3 x:=4;
+                    end
+                

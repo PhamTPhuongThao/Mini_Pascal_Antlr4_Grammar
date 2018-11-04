@@ -1,0 +1,1 @@
+(*var i:integer; procedure main(); begin end *)

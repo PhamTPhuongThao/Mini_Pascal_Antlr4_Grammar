@@ -1,0 +1,6 @@
+var a,b,c:integer;
+                   procedure main();
+                   begin
+                    a=a+b-c*4 mod 5 / 6 div 100;
+                    if (b>a-c) then return;
+                end

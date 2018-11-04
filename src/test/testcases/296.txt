@@ -1,0 +1,10 @@
+
+                function fibo(x: real): real;
+                var f1,f2: real;
+                begin
+                 if x<=2 then
+                  return 1;
+                 else
+                  return fibo(x-2)+ fibo(x-1);
+                end
+                

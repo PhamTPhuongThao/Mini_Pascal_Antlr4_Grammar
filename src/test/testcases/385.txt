@@ -1,0 +1,5 @@
+function forl():integer;
+                    begin
+                        for i=1 to n do n:=n+1;
+                    end
+                

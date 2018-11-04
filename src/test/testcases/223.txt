@@ -1,0 +1,6 @@
+
+        procedure hyhfg): string; 
+        begin
+        
+        end
+        

@@ -1,0 +1,6 @@
+
+        procedure ggdfg(): string;
+        var x, y: string;
+            z: real;
+        begin
+        end

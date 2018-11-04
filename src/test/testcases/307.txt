@@ -1,0 +1,6 @@
+var a,b,c : real;
+        d :array [2 .. 6] of integer;
+        function main(): integer;
+        begin
+        end
+        

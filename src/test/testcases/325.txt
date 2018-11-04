@@ -1,0 +1,5 @@
+var i:integer;
+		j,:real;
+	    procedure main();
+	    begin
+	    end

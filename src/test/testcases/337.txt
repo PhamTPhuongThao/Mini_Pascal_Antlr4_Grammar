@@ -1,0 +1,6 @@
+function main():integer;
+        begin
+        a[3]:= "this is string" + 100;
+        return 2*3;
+        end
+        

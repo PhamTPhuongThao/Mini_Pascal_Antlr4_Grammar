@@ -1,0 +1,10 @@
+
+        procedure aaaa() ;
+        var t: real;
+        begin
+            with num : real; a: real; do begin
+                sort(a);
+                sum(a,b,c);
+            end
+        end
+        

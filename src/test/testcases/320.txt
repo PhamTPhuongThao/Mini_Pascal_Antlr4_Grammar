@@ -1,0 +1,4 @@
+function foo (b :integer ):real ;
+begin
+x :=:= 2; 
+end

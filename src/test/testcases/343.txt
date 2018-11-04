@@ -1,0 +1,2 @@
+var a,b,c,gh : array [1 .. 23] of integer;
+		d,e: array [1 .. 10] of real;

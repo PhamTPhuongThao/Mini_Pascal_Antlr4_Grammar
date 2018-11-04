@@ -1,0 +1,9 @@
+
+                function gt(x:real):real;
+                begin
+                if x = 0 then
+                 return 1;
+                else
+                 return x*gt(x-1);
+                end
+                

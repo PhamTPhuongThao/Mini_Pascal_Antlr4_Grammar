@@ -1,0 +1,14 @@
+
+                Var name, surname: String;
+                procedure Main();
+                begin
+                   print("Nhap ten cua ban:");
+                   readfromfile(name);
+                   print("Nhap ho cua ban:");
+                   readfromfile(surname);
+                   println();(*new line*)
+                   println();//new line}
+                   println("Ten day du cua ban la : ",name," ",surname);
+                   readfromfile();
+                end
+                

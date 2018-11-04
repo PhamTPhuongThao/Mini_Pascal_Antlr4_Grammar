@@ -1,0 +1,7 @@
+
+        function f(): real; 
+        begin
+            aof := "ghgh";
+            m := n := func(1,a+1) ;
+        end
+        

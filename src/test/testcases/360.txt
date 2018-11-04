@@ -1,0 +1,3 @@
+function chuvi x,y: integer): real;
+		begin 
+		end

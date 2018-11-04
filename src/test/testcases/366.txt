@@ -1,0 +1,6 @@
+
+                    function hehe():integer;
+                    begin
+                        return 5+6+5+4*100000;
+                    end
+                    

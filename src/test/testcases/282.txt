@@ -1,0 +1,8 @@
+
+                procedure main() ;
+                begin
+                 a[b[2]] := 10;
+                 foo();
+                 return ;
+                end
+                

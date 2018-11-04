@@ -1,0 +1,8 @@
+
+        function f(t: real): string ;
+        begin
+            if(a>1) then a:= a/2 ;
+            else if (t[1]< t[2]) then begin t[1]:=i ; end
+            else if (t > 0) then f(x);
+        end
+        

@@ -1,0 +1,7 @@
+
+        var num: real;
+        procedure foo(a: real) ;
+		begin
+            var arr: real;
+        end
+        

@@ -1,0 +1,20 @@
+
+                Var PD, Dname, Cmodel : String;
+                CostPD, TCostPD, Distance : real;
+                {real is a decimal (described later on)}
+                procedure main();
+                begin
+                    textbackground(brown); {background colour}
+                    clearScreen(); {Clear screen with a brown colour. Try run the program without this..}
+                    TextColor(lightgreen); {text colour}
+                    TCostPD := 0;
+                    println("This program prompts you to input the cost per litre of");
+                    println("the petrol/diesel you spend in and the average distance you travel");
+                    println("with your car every week. Then, the computer calculates the total cost");
+                    println("you spend in fuel every week.");
+                    Readkey(); {program move on as soon as a key is pressed}
+                    clearScreen(); {short for clear screen}
+                    GotoXy(28,3); {move to a position on the screen: x (horizontal), y (vertical)}
+                    readfromfile();
+                end
+        

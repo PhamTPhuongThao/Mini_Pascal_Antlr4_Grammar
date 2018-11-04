@@ -1,0 +1,6 @@
+var i : integer ;
+ function f (): integer ; 
+ begin 
+ return 200; 
+ end 
+ procedure main();begin end

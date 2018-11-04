@@ -1,0 +1,9 @@
+
+        procedure aaa(t: real) ;
+        var a: real ;
+        begin
+            if(a>1) then a:= a/2 ;
+            if (t[1]< tmp[2]) then begin t[1]:=i ; end
+            else aaa(x);
+        end
+        

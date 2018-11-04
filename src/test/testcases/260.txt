@@ -1,0 +1,9 @@
+procedure foo(c: real) ;
+        begin
+            with a1, a2 : real ; c : array [1 .. 2] of real ; do begin
+                d := c [a] + b ; foo();foo1(a,b,c);
+                with a , b : real ; do begin
+                    foo2(a,b,"anc");
+            end
+        end
+        end

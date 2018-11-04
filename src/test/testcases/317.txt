@@ -1,0 +1,12 @@
+function tim_min (a,b: integer): real;
+		var min: integer; 
+		begin
+		if a < b then 
+			begin
+				min := a ;
+			end
+		else
+			begin
+				min := b ;
+			end
+		end

@@ -1,0 +1,9 @@
+
+        procedure aaa() ;
+        var a,b: string ;
+        begin
+            while(t<>a) do begin 
+                a:= b*2; 
+            end
+        end
+        

@@ -1,0 +1,4 @@
+function foo(): real; begin
+                    foo(3,t+343,t<>5,t[10]);
+                    return 1;
+                   end

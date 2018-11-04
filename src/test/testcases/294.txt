@@ -1,0 +1,9 @@
+
+                procedure ChenPhanTu(A:array[0 .. 10] of real;N: real; k, X:real);
+                Var i :real;
+                begin
+                 For i:=N downto k+ 1 do
+                  A[i] := A[i-1];
+                 A[k] := X;
+                end
+                

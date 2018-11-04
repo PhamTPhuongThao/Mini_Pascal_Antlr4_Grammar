@@ -1,0 +1,4 @@
+ var i:integer
+                        j:real;
+                        g:boolean;
+                    

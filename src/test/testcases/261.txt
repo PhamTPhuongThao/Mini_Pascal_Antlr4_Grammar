@@ -1,0 +1,4 @@
+function aaaa(c: real): real;
+                   begin
+                    FOR i:=1 to t+10 do 
+                        t := t + 1; end
